@@ -38,3 +38,6 @@
 .input-group input:last-child {
   margin-right: 0;
 }
+.container {
+  background-color: chocolate;
+}
